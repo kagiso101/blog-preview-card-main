@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor solution URL ](https://www.frontendmentor.io/solutions/blog-preview-card-main-AReYRpA4Bh)
+- Live Site URL: [ live site hosted on github pages](https://kagiso101.github.io/blog-preview-card-main/)
 
 ## My process
 I always start my projects with a mobile first approach . Once mobile is sorted I jump straight to desktop views . this makes my screens much more responsive . With this project I didnt have to worry too much about tablet views as they fall into desktop media queries 
